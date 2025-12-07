@@ -196,6 +196,18 @@
   
   </div>
 
+  <div style="flex: 1; min-width: 300px; text-align: left;">
+  
+  ### Qirui Gao (高琪芮)
+  <img src="photos/qrgao.jpg" alt="Qirui Gao"
+      style="width: 200px; max-height: 200px; border-radius: 10px; object-fit: cover">
+  
+  **Position:**  PhD Student  
+  **Research Focus:** develops and applies quasi-particle methods (GW/BSE) to quantum computer design.    
+  **Personal Website:** [No available](members/qrgao.md)
+  
+  </div>
+
 </div>
 
 ---

@@ -1,5 +1,9 @@
 [book]
-authors = ["Shirong_Wang"]
+authors = ["IY ZHang", "SR Wang"]
 language = "en"
 src = "src"
 title = "igorgroup"
+
+[output.html]
+no-section-label = true
+additional-css = ["theme/custom.css"]

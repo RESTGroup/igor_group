@@ -46,8 +46,8 @@
 
   <div style="flex: 1; min-width: 300px; text-align: left;">
   
-  ### Shenyang Cai (蔡升阳)
-  <img src="photos/sycai.jpg" alt="Shenyang Cai"
+  ### Shengyang Cai (蔡升阳)
+  <img src="photos/sycai.jpg" alt="Shengyang Cai"
       style="width: 200px; max-height: 200px; border-radius: 10px; object-fit: cover">
   
   **Position:** Postdoctoral Fellow  

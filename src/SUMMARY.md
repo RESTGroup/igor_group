@@ -1,5 +1,6 @@
 # Summary
 
 [Igor Group](./index.md)
-- [group](./group.md)
-- [project](./projects.md)
+- [Member List](./group.md)
+    - [虞凌岳](./members/lyyu/index.md)
+- [Projects](./projects.md)

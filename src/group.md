@@ -16,7 +16,7 @@
   
   **Position:** Assistant Researcher  
   **Research Focus:** Multi-Configuration Pair Density Functional Theory (MC-PDFT)  
-  **Personal Website:** [No available](members/rlfeng.md)
+  **Personal Website:** [Acadamic Profile](members/rlfeng.md)
   
   </div>
   
@@ -28,7 +28,7 @@
   
   **Position:** Assistant Researcher  
   **Research Focus:** Organizes REST program workshops and develops machine learning algorithms for XPaiNN.  
-  **Personal Website:** [No available](members/wjyan.md)
+  **Personal Website:** [Acadamic Profile](members/wjyan.md)
   
   </div>
   
@@ -40,7 +40,7 @@
   
   **Position:** Postdoctoral Fellow  
   **Research Focus:** Focuses on optimizing REST program code and developing GPU-based low-scale algorithms.  
-  **Personal Website:** [No available](members/zyzhu.md)
+  **Personal Website:** [Acadamic Profile](members/zyzhu.md)
   
   </div>
 
@@ -52,7 +52,7 @@
   
   **Position:** Postdoctoral Fellow  
   **Research Focus:** Develops and applies XO-REST method for complex biological systems.  
-  **Personal Website:** [No available](members/sycai.md)
+  **Personal Website:** [Acadamic Profile](members/sycai.md)
   
   </div>
 
@@ -72,7 +72,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Bayesian analysis-based enhanced sampling methods and XPaiNN machine learning potential training.  
-  **Personal Website:** [No available](members/yjli.md)
+  **Personal Website:** [Acadamic Profile](members/yjli.md)
   
   </div>
 
@@ -84,7 +84,7 @@
   
   **Position:**  Master Student  
   **Research Focus:** ISDF-based lower-scaling HF and xDH algorithm in REST.  
-  **Personal Website:** [No available](members/zyli.md)
+  **Personal Website:** [Acadamic Profile](members/zyli.md)
   
   </div>
 
@@ -96,7 +96,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Embeding XO-PBC method and its application for complex systems.  
-  **Personal Website:** [No available](members/ylzhao.md)
+  **Personal Website:** [Acadamic Profile](members/ylzhao.md)
   
   </div>
 
@@ -108,7 +108,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** xDH method development in the restricted open-shell (RO) framework using REST program.  
-  **Personal Website:** [No available](members/lyyu.md)
+  **Personal Website:** [Acadamic Profile](members/lyyu/index.md)
   
   </div>
 
@@ -120,7 +120,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Computational intelligence agents for complex systems using REST program.  
-  **Personal Website:** [No available](members/hbyang.md)
+  **Personal Website:** [Acadamic Profile](members/hbyang/index.md)
   
   </div>
 
@@ -132,7 +132,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** RRS-PBC and machine-learning-based Hamiltonian generation algorithm for periodic systems using REST program.  
-  **Personal Website:** [No available](members/zhlin.md)
+  **Personal Website:** [Acadamic Profile](members/zhlin/index.md)
   
   </div>
 
@@ -144,7 +144,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Implementation of Pseudo-potential and PCM in REST for advanced doubly hybrid approximations.  
-  **Personal Website:** [No available](members/symei.md)
+  **Personal Website:** [Acadamic Profile](members/symei/index.md)
   
   </div>
 
@@ -156,7 +156,7 @@
   
   **Position:**  Master Student  
   **Research Focus:** Implements relativistic methods (spin-orbit coupling, X2C) in REST and applies them to rare-earth element systems.  
-  **Personal Website:** [No available](members/jpzou.md)
+  **Personal Website:** [Acadamic Profile](members/jpzou/index.md)
   
   </div>
 
@@ -168,7 +168,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Development and application of vdW-corrected DFAs  
-  **Personal Website:** [No available](members/yzxu.md)
+  **Personal Website:** [Acadamic Profile](members/yzxu/index.md)
   
   </div>
 
@@ -180,7 +180,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Develops and applies xDH methods compined with QM/MM and molecular dynamics for spectroscopic simulation within the REST framework.  
-  **Personal Website:** [No available](members/lmchen.md)
+  **Personal Website:** [Acadamic Profile](members/lmchen/index.md)
   
   </div>
 
@@ -192,7 +192,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** Machine learning density functional methods combining specialized and general-purpose approaches (DFT-Net).  
-  **Personal Website:** [No available](members/fhchen.md)
+  **Personal Website:** [Acadamic Profile](members/fhchen/index.md)
   
   </div>
 
@@ -204,7 +204,7 @@
   
   **Position:**  PhD Student  
   **Research Focus:** develops and applies quasi-particle methods (GW/BSE) to quantum computer design.    
-  **Personal Website:** [No available](members/qrgao.md)
+  **Personal Website:** [Acadamic Profile](members/qrgao/index.md)
   
   </div>
 

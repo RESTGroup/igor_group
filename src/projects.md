@@ -1,6 +1,6 @@
 # On-going Research Projects | Igor's Lab
 
-[← Back to Homepage](README.md)
+[← Back to Homepage](./index.md)
 
 
 ## Project 1: Specialized-Generalized DFT Foundation Model (DFT-Net)
@@ -49,4 +49,4 @@ This project focuses on integrating the outputs of Projects 1-3 into a unified, 
 *   **Closed-Loop Framework:** Realize the vision of a "**data-algorithm-theory**" closed loop, where generated data feeds AI models (DFT-Net), which in turn improve theoretical methods and guide new computational campaigns.
     *   Build specialized databases covering ground- and excited-state properties for both main-group and transition metal systems.
 
-[← Back to Homepage](README.md)
+[← Back to Homepage](./index.md)

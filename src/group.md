@@ -1,6 +1,6 @@
 # Research Team | Igor's Laboratory
 
-[← Back to Homepage](README.md)
+[← Back to Homepage](./index.md)
 
 ---
 
@@ -204,4 +204,4 @@
 ## Alumni
 *Previous team members who have moved on to new positions.*
 
-[← Back to Homepage](README.md)
+[← Back to Homepage](./index.md)

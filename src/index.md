@@ -49,9 +49,19 @@ Prof. Zhang's research is centered on developing high-accuracy density functiona
 
 *   **[Research Group & Members](group.md)** - Meet our dynamic research team.
 *   **[Ongoing Research Projects](projects.md)** - Explore our current cutting-edge research topics.
+
+  <div align="center"> 
+    <img src="photos/rest_dft.jpg" alt="DFT_NET" 
+      style="height: 300px; width: auto; border-radius: 10px;">
+  </div>
+
 *   **🚀 [REST Electronic Structure Package](https://gitee.com/restgroup)** - We proudly present **REST**, the world's first Rust-based electronic structure package developed by our research group. **REST** aims to revolutionize quantum chemistry software with modern programming paradigms, offering exceptional performance, safety, and maintainability. We welcome everyone to download and use **REST**, and join our open-source community to contribute to its development and advance the field together!
 
-![rest](photos/rest_dft.jpg)
+  <div align="center"> 
+    <img src="photos/rest_frame.jpg" alt="REST" 
+      style="height: 600px; width: auto; border-radius: 10px;">
+  </div>
+
 
 ---
 

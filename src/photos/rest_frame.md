@@ -1,0 +1,3 @@
+- 编辑rest_frame.mmd
+- 使用vscode中的mermaid preview功能制图; 生成rest_frame.png
+- 然后使用gimp软件去掉留白; 生成rest_frame.jpg

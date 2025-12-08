@@ -1,0 +1,36 @@
+graph TD
+    A[<div style='font-size:22px;font-weight:bold;color:#01579b'>REST</div><div style='font-size:12px'>Rust-based Electronic<br>Structure Toolkit</div>]--> B[Core Capabilities]
+    A --> C[Development Team]
+    
+    subgraph B [Core Capabilities]
+        direction LR 
+        B1[High-Performance Basis Set Operations<br>RI approximation & 4-center integrals]
+        B2[Mainstream DFT Methods<br>LDA/（meta-）GGA/Hybrid + Dispersion]
+        B3[5th-Order High-Accuracy Methods<br>Double-Hybrid/RPA/scs-RPA]
+        B4[Machine Learning Integration<br>DL-xDH23/R-xDH7-SCC]
+        B5[Excited-State Calculations<br>ΔSCF/GW/BSE]
+        B6[Interactive Workflow<br>PyREST Interface]
+    end
+    
+    subgraph C [Development Team]
+        direction LR
+        C1[Igor Ying Zhang <br>Project Lead & Main Contributor<br>• Overall framework design<br>• LDA→Double-Hybrid implementation<br>• Main program & key libraries]
+        
+        C2[Sheng Bi <br>• Docker/Singularity build tools<br>• DFT-Net development<br>]
+        
+        C3[Wenjie Yan <br>• Community management<br>• Response properties of xDH<br>• meta-GGA implementation]
+        
+        C4[Key Contributors]
+        
+        C4 --> D1[ISDF & Initial Guess<br>Zhiyun Li ]
+        C4 --> D2[GW & BSE Methods<br>Qirui Gao ]
+        C4 --> D3[...]
+    end
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:3px
+    style B fill:#e8f5e8,stroke:#2e7d32
+    style C fill:#f3e5f5,stroke:#6a1b9a
+    style C1 fill:#fff3e0
+    style C2 fill:#e0f2f1
+    style C3 fill:#fce4ec
+    style C4 fill:#fffde7

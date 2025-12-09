@@ -62,6 +62,8 @@ Prof. Zhang's research is centered on developing high-accuracy density functiona
       style="height: 600px; width: auto; border-radius: 10px;">
   </div>
 
+*   **[REST Download Page](rest_download.md)** - **Get the latest REST binaries here!** This page provides pre-built container images (Docker and Singularity/Apptainer formats) for immediate use. No compilation needed - just download and run. Enjoy REST!
+
 
 ---
 

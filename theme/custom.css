@@ -2,3 +2,7 @@
 :root {
     --content-max-width: 1320px; /* 或 70% */
 }
+
+.nav-chapters {
+    display: none;
+}

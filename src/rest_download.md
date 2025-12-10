@@ -8,7 +8,7 @@
 
 ## 🚀 About REST
 
-**REST** (Rust-based Electronic Structure Theory) is the world's first electronic structure package built entirely in Rust, developed by our research group at Fudan University. This page provides containerized versions of REST for easy deployment.
+**REST** (Rust-based Electronic Structure Theory) is the world's first electronic structure package built entirely in Rust, developed by our research group. This page provides containerized versions of REST for easy deployment.
 
 **Note**: For source code, compilation instructions, and detailed usage documentation, please visit our main repository:
 👉 **[gitee.com/restgroup](https://gitee.com/restgroup)**

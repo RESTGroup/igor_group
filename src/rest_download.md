@@ -47,14 +47,14 @@
 ### Docker Installation
 ```bash
 # Download and load Docker image
-wget -O rest_workshop1128.tar.gz "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_workshop1128.tar.gz?OSSAccessKeyId=LTAI5tEXXCFMxuSUnRxzrdFS&Expires=1765299594&Signature=%2Fb7HqbVKqeVlhVWp%2Ff8Dvdfv3ug%3D"
+wget -O rest_workshop1128.tar.gz "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_workshop1128.tar.gz"
 docker load < rest_workshop1128.tar.gz
 ```
 
 ### Apptainer/Singularity Installation
 ```bash
 # Download Apptainer container
-wget -O rest_ws_1128.sif "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_ws_1128.sif?OSSAccessKeyId=LTAI5tEXXCFMxuSUnRxzrdFS&Expires=1765299046&Signature=9MnSI5caC7JKny3W4lr3gqfVl6A%3D"
+wget -O rest_ws_1128.sif "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_ws_1128.sif"
 singularity exec rest_ws_1128.sif rest --version
 ```
 

@@ -15,10 +15,10 @@
 
 ---
 
-## 📋 Current Version: Workshop1128
+## 📋 Current Version: v2025.01
 
 **Release Information:**
-- **Version**: Workshop1128 (Workshop Edition)
+- **Version**: 2025.01 (Workshop Edition)
 - **Release Date**: November 28, 2025
 - **Workshop**: 2nd REST Workshop @ Fudan University (2025 November 29-30)
 - **Storage**: Hosted on Alibaba Cloud OSS
@@ -29,16 +29,16 @@
 ## ⬇️ Download Links
 
 ### Docker Container Image
-- **Filename**: `rest_workshop1128.tar.gz`
+- **Filename**: `rest_2025.01.tar.gz`
 - **Size**: ~1.6 GB
 - **Format**: Docker image archive (.tar.gz)
-- **Download**: [rest_workshop1128.tar.gz](https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_workshop1128.tar.gz)
+- **Download**: [rest_2025.01.tar.gz](https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_2025.01.tar.gz)
 
 ### Apptainer (Singularity) Container Image
-- **Filename**: `rest_ws_1128.sif`
+- **Filename**: `rest_2025.01.sif`
 - **Size**: ~1.6 GB
 - **Format**: Singularity/Apptainer container (.sif)
-- **Download**: [rest_ws_1128.sif](https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_ws_1128.sif)
+- **Download**: [rest_2025.01.sif](https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_2025.01.sif)
 
 ---
 
@@ -47,15 +47,15 @@
 ### Docker Installation
 ```bash
 # Download and load Docker image
-wget -O rest_workshop1128.tar.gz "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_workshop1128.tar.gz"
-docker load < rest_workshop1128.tar.gz
+wget -O rest_2025.01.tar.gz "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/docker/rest_2025.01.tar.gz"
+docker load < rest_2025.01.tar.gz
 ```
 
 ### Apptainer/Singularity Installation
 ```bash
 # Download Apptainer container
-wget -O rest_ws_1128.sif "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_ws_1128.sif"
-singularity exec rest_ws_1128.sif rest --version
+wget -O rest_2025.01.sif "https://rest-package-image.oss-cn-hangzhou.aliyuncs.com/apptainer/rest_2025.01.sif"
+singularity exec rest_2025.01.sif rest --version
 ```
 
 ## 📚 Documentation & Support
